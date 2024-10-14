@@ -1,2 +1,13 @@
 .DS_Store
-.dSYM
+*.dSYM
+
+## prakas files
+praka1
+praka2
+praka3
+praka4
+praka5
+praka6
+
+.vscode
+test.cpp
