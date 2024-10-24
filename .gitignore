@@ -1,5 +1,5 @@
-.DS_Store
-*.dSYM
+*.DS_Store
+.dSYM
 
 ## prakas files
 praka1
