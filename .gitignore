@@ -1,13 +1,21 @@
 *.DS_Store
-.dSYM
+*.dSYM
 
 ## prakas files
+nul
 praka1
 praka2
 praka3
 praka4
 praka5
 praka6
+praka7
+praka8
+praka9
+praka10
+praka11
+kurs_19_var
 
 .vscode
 test.cpp
+tempCodeRunnerFile.cpp

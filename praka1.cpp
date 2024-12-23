@@ -1,6 +1,5 @@
 #include <iostream>
 #include <cmath>
-//#include <conio>
 
 bool checkRadius(float x, float y, float radius){
     return (x * x + y * y <= radius * radius);
